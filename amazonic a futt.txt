@@ -1,0 +1,11 @@
+Amasonic a fullt
+define( 'DB_NAME', 'amazonicafoods_wp_vsoym' );
+
+/** Database username */
+define( 'DB_USER', 'amazonicafoods_wp_boifl' );
+
+/** Database password */
+define( 'DB_PASSWORD', 'bUxU2~K@N36!AUO1' );
+
+/** Database hostname */
+define( 'DB_HOST', 'localhost:3306' );
